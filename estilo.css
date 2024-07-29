@@ -1,0 +1,105 @@
+body {
+    margin:0;
+    padding:0;
+    font-family:sans-serif;
+    background-color:rgb(151, 216, 232);
+    }
+header{
+width: 100%;
+height: auto;
+background-color:rgb(107, 177, 224);
+}
+
+h1{
+    color: #093f95;
+    font-family:Comic Sans MS;   
+    font-size: 35px;
+}
+    h2{
+        font-size: 32px;
+        line-height: 1.333333334;
+        margin-bottom: 20px;
+        margin-bottom: 2rem;
+        text-align: justify;
+    }
+    .titulo {
+        font-family:Comic Sans MS;
+        font-weight:700;
+        font-size:70px;
+        text-align:center;
+        color: #093f95;
+        text-shadow: 5px 5px 8px #000000;
+        padding-bottom: 1%;
+
+       
+        }
+    main {
+        max-width:70%;
+        margin: 0 auto;
+        background-color:#fff;
+        padding: 1em;
+        box-shadow: 5px 5px 8px #000;
+        border-radius: 3%;
+        }
+    p {
+        font-size: 32px;
+        line-height: 1.333333334;
+        margin-bottom: 20px;
+        margin-bottom: 2rem;
+        text-align: justify;
+        }       
+    
+        
+        ul{
+            font-size: 35px;
+            font-family:sans-serif;
+        
+
+        }
+       
+    img {
+        max-width:100%;
+        margin: 0 auto;
+        }
+
+
+    footer{
+        background-color:#000;
+        color:#fff;
+        text-align:center;
+        font-size:12px;
+        padding: 1em 1em;
+        width:100%;
+      display: block;
+    
+    
+        }
+    .img1{
+        width: 40%;
+        margin: 0 auto;
+        display: block;
+    }
+    .banner{
+    
+        border: solid 5px #000;
+        border-radius: 8%;
+        display: block;
+        margin: 0 auto;
+       width: 60%;
+       margin-top: 1%;
+       margin-bottom: 3%;
+    }
+    summary{
+        font-size: 35px;
+        font-family:sans-serif;
+    }
+    .banner3{
+    border: solid 10px #000;
+   border-style: double;
+    display: block;
+    height: 100%;
+    margin: 0 auto;
+    width: 95%;
+    margin-top: 1%;
+    margin-bottom: 3%;
+    }
