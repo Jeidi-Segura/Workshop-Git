@@ -57,6 +57,14 @@ h1{
 
         }
        
+    ol{
+        font-size: 32px;
+            font-family:sans-serif; 
+            line-height: 1.333333334;
+            margin-bottom: 20px;
+            margin-bottom: 2rem;
+            text-align: justify;
+    }
     img {
         max-width:100%;
         margin: 0 auto;
